@@ -1,0 +1,14 @@
+{
+  "name": "sql-assessment-PHX",
+  "version": "1.0.0",
+  "main": "./server/index.js",
+  "repository": "https://github.com/jordanmbush/sql-assessment-PHX.git",
+  "author": "<jordanmbush@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.3",
+    "massive": "^4.7.1"
+  }
+}
